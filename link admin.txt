@@ -1,0 +1,5 @@
+link administrator joomla
+path.ro/administrator
+
+link componenta (soft-u nostru)
+path.ro/administrator/index.php?option=com_sauto
